@@ -43,5 +43,5 @@ Each session includes:
 
 If you have any questions or feedback, feel free to reach out:
 
-- 📧 Email: [rena_kayal@hotmail.com](rena_kaya@hotmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/rena-kaya/](https://www.linkedin.com/in/rena-kaya/)
+- Email: [rena_kayal@hotmail.com](rena_kaya@hotmail.com)  
+- LinkedIn: [linkedin.com/in/rena-kaya/](https://www.linkedin.com/in/rena-kaya/)

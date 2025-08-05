@@ -26,7 +26,7 @@ The main goals of the project are to:
 
 ## Data Source
 
-The dataset used in this project was self-generated using Python, under the document traffic_info.py. It simulates 4,182 user sessions on an e-commerce website between **January and June 2025**.
+The dataset used in this project was self-generated using Python, in the document `traffic_info.py`. It simulates 4,182 user sessions on an e-commerce website between **January and June 2025**.
 
 Each session includes:
 
